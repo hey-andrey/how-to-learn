@@ -84,10 +84,6 @@ body, h1, h2, h3, h4, h5, h6, p {
   z-index: 0;
 }
 
-/* .content {} */
-
-/* .description {} */
-
 .two-columns {
   display: flex;
   justify-content: space-between;
@@ -126,8 +122,6 @@ body, h1, h2, h3, h4, h5, h6, p {
 .two-columns__main-text .two-columns__paragraph:last-child {
   margin: 0 0 0 0;
 }
-
-/* digits {} */
 
 .section-title {
   max-width: 60%;
