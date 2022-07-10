@@ -193,24 +193,22 @@
 }
 
 .feynman__title {
-  margin: 0;
+  margin: 0 auto 0;
   padding: 0;
   max-width: 648px;
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
   padding-top: 100px;
-  margin: auto;
   text-align: center;
 }
 
 .feynman__subtitle {
-  margin: 0;
+  margin: 70px auto 0;
   padding: 0;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  margin: 70px auto;
   text-align: center;
 }
 
@@ -305,12 +303,11 @@
 }
 
 .footer__author {
-  margin: 0;
+  margin: 18px 0 18px;
   padding: 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  margin: 18px 0 18px;
 }
 
 .footer__column_content_info {
@@ -322,12 +319,11 @@
 }
 
 .footer__column-heading {
-  margin: 0;
+  margin: 0 0 20px;
   padding: 0;
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
-  margin: 0 0 20px;
 }
 
 .footer__column-links {
